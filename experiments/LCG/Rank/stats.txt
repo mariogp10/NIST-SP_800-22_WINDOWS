@@ -1,0 +1,80 @@
+					RANK TEST
+			---------------------------------------------
+			COMPUTATIONAL INFORMATION:
+			---------------------------------------------
+			(a) Probability P_32 = 0.288788
+			(b)             P_31 = 0.577576
+			(c)             P_30 = 0.133636
+			(d) Frequency   F_M = 278
+			(e)             F_M-1 = 568
+			(f)             N - F_M - F_M-1 = 130
+			(g) # of matrices    = 976
+			(h) Chi^2            = 0.086774
+			(i) NOTE: 576 BITS WERE DISCARDED.
+			---------------------------------------------
+SUCCESS		p_value = 0.957541
+
+					RANK TEST
+			---------------------------------------------
+			COMPUTATIONAL INFORMATION:
+			---------------------------------------------
+			(a) Probability P_32 = 0.288788
+			(b)             P_31 = 0.577576
+			(c)             P_30 = 0.133636
+			(d) Frequency   F_M = 284
+			(e)             F_M-1 = 570
+			(f)             N - F_M - F_M-1 = 122
+			(g) # of matrices    = 976
+			(h) Chi^2            = 0.631036
+			(i) NOTE: 576 BITS WERE DISCARDED.
+			---------------------------------------------
+SUCCESS		p_value = 0.729411
+
+					RANK TEST
+			---------------------------------------------
+			COMPUTATIONAL INFORMATION:
+			---------------------------------------------
+			(a) Probability P_32 = 0.288788
+			(b)             P_31 = 0.577576
+			(c)             P_30 = 0.133636
+			(d) Frequency   F_M = 295
+			(e)             F_M-1 = 549
+			(f)             N - F_M - F_M-1 = 132
+			(g) # of matrices    = 976
+			(h) Chi^2            = 1.015859
+			(i) NOTE: 576 BITS WERE DISCARDED.
+			---------------------------------------------
+SUCCESS		p_value = 0.601740
+
+					RANK TEST
+			---------------------------------------------
+			COMPUTATIONAL INFORMATION:
+			---------------------------------------------
+			(a) Probability P_32 = 0.288788
+			(b)             P_31 = 0.577576
+			(c)             P_30 = 0.133636
+			(d) Frequency   F_M = 289
+			(e)             F_M-1 = 548
+			(f)             N - F_M - F_M-1 = 139
+			(g) # of matrices    = 976
+			(h) Chi^2            = 1.182382
+			(i) NOTE: 576 BITS WERE DISCARDED.
+			---------------------------------------------
+SUCCESS		p_value = 0.553668
+
+					RANK TEST
+			---------------------------------------------
+			COMPUTATIONAL INFORMATION:
+			---------------------------------------------
+			(a) Probability P_32 = 0.288788
+			(b)             P_31 = 0.577576
+			(c)             P_30 = 0.133636
+			(d) Frequency   F_M = 299
+			(e)             F_M-1 = 545
+			(f)             N - F_M - F_M-1 = 132
+			(g) # of matrices    = 976
+			(h) Chi^2            = 1.682863
+			(i) NOTE: 576 BITS WERE DISCARDED.
+			---------------------------------------------
+SUCCESS		p_value = 0.431093
+
